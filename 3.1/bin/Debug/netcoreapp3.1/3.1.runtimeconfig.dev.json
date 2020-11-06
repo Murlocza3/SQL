@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\PAPANYA\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\PAPANYA\\.nuget\\packages"
+    ]
+  }
+}
